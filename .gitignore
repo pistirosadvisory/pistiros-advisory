@@ -1,0 +1,7 @@
+stefan.jpg
+SB_photo.jpg
+*.docx
+.env
+__pycache__/
+Thumbs.db
+.DS_Store
