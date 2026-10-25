@@ -100,6 +100,21 @@ nav .nav-cta:hover{background:var(--accent);color:var(--accent-ink)}
 .tag{font:600 .72rem var(--sans);letter-spacing:.14em;text-transform:uppercase;color:var(--accent)}
 .go{margin-top:auto;padding-top:10px;font-weight:600;font-size:.9rem;color:var(--accent)}
 .fine-note{margin-top:18px;font-size:.88rem;color:var(--muted)}
+.catnav{margin:0 0 8px}
+.catnav a{text-decoration:none;color:var(--ink)}
+.catnav li:hover{border-color:var(--accent)}
+.catsec{padding-top:56px;scroll-margin-top:80px}
+.catsec h2{margin-bottom:.2em}
+.catsec .lead{font-size:1.02rem}
+.cards.feature{grid-template-columns:1fr}
+.cards.feature .card{background:var(--tint);border-color:var(--accent)}
+.cards.feature .card h3{font-size:1.5rem}
+a.eyebrow{text-decoration:none}
+.morecat{margin-top:3em;padding-top:1em;border-top:1px solid var(--line)}
+.morecat h2{font-size:1.1rem}
+.morecat ul{padding-left:1.1em}
+.prose li.check{list-style:none;position:relative}
+.prose li.check::before{content:"";position:absolute;left:-1.35em;top:.3em;width:.8em;height:.8em;border:1.5px solid var(--accent);border-radius:2px}
 
 .tbl{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);font-size:.96rem;margin:30px 0}
 .tbl th,.tbl td{padding:14px 18px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
