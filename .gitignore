@@ -5,3 +5,11 @@ SB_photo.jpg
 __pycache__/
 Thumbs.db
 .DS_Store
+_site/
+*.pem
+*.key
+*.p12
+*.pfx
+*.sqlite
+*.sqlite3
+*.log
